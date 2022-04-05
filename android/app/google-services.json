@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684134292884",
+    "project_id": "clayartmobileapp",
+    "storage_bucket": "clayartmobileapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684134292884:android:3f3ccf15366f7187924381",
+        "android_client_info": {
+          "package_name": "com.clayart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684134292884-82akvpp25dgcbiumej3hh617qlc41lin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvF1q807rW0F7IQW5TcvQ27ZIjmyXVwXw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684134292884-82akvpp25dgcbiumej3hh617qlc41lin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
